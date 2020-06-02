@@ -27,6 +27,16 @@ Fake news model performance evaluation.
 * **Description:**
 * [**Code repository**](https://github.com/sungyongs/CSI-Code)
 
+#### Name: TAA
+* **Paper:** A topic-agnostic approach for identifying fake news pages
+* **Description:**
+* [**Code repository**](https://github.com/soniacq/FakeNewsClassifier)
+
+#### Name: 
+* **Paper:** A topic-agnostic approach for identifying fake news pages
+* **Description:**
+* [**Code repository**](https://github.com/soniacq/FakeNewsClassifier)
+
 
 
 
